@@ -42,6 +42,7 @@ This project was developed as a **B.E. Electronics and Communication Engineering
 - Gemini AI powered chatbot
 - Answers passenger queries
 - Assists users with bus-related information
+- Note: This project uses the Google Gemini API. For security reasons, the API key is not included in this repository. To use the AI chatbot, add your own Gemini API key to appsettings.json.
 
 ---
 
