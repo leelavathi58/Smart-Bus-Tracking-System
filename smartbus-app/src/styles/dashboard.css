@@ -1,0 +1,79 @@
+
+/* Dashboard Cards */
+
+.stat-card{
+
+    border:none;
+
+    border-radius:18px;
+
+    background:white;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+    cursor:pointer;
+
+}
+
+.stat-card:hover{
+
+    transform:translateY(-6px);
+
+}
+
+.stat-icon{
+
+    width:60px;
+
+    height:60px;
+
+    border-radius:15px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:28px;
+
+    color:white;
+
+}
+
+.blue{
+
+    background:#2563EB;
+
+}
+
+.green{
+
+    background:#22C55E;
+
+}
+
+.orange{
+
+    background:#F59E0B;
+
+}
+
+.red{
+
+    background:#EF4444;
+
+}
+
+.chart-card{
+
+    border:none;
+
+    border-radius:18px;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+}
+

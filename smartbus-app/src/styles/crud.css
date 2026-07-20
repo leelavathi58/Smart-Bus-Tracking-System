@@ -1,0 +1,146 @@
+
+/* Page */
+
+.page-title{
+
+    font-weight:700;
+
+    margin-bottom:25px;
+
+}
+
+/* Form Card */
+
+.form-card{
+
+    background:white;
+
+    border-radius:18px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+    padding:30px;
+
+    margin-bottom:30px;
+
+}
+
+/* Table Card */
+
+.table-card{
+
+    background:white;
+
+    border-radius:18px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+    padding:20px;
+
+}
+
+/* Sticky Header */
+
+.table thead th{
+
+    position:sticky;
+
+    top:0;
+
+    background:#1E293B;
+
+    color:white;
+
+    z-index:2;
+
+}
+
+/* Zebra */
+
+.table tbody tr:nth-child(even){
+
+    background:#F8FAFC;
+
+}
+
+/* Hover */
+
+.table tbody tr:hover{
+
+    background:#E0F2FE;
+
+}
+
+/* Badge */
+
+.status-badge{
+
+    padding:7px 15px;
+
+    border-radius:30px;
+
+    font-size:13px;
+
+    font-weight:600;
+
+}
+
+.available{
+
+    background:#DCFCE7;
+
+    color:#166534;
+
+}
+
+.running{
+
+    background:#DBEAFE;
+
+    color:#1D4ED8;
+
+}
+
+.inactive{
+
+    background:#FEE2E2;
+
+    color:#991B1B;
+
+}
+
+/* Buttons */
+
+.icon-btn{
+
+    width:38px;
+
+    height:38px;
+
+    border:none;
+
+    border-radius:10px;
+
+    color:white;
+
+    margin-right:8px;
+
+}
+
+.edit-btn{
+
+    background:#F59E0B;
+
+}
+
+.delete-btn{
+
+    background:#EF4444;
+
+}
+
+.icon-btn:hover{
+
+    opacity:.9;
+
+}
